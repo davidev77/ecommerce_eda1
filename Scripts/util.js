@@ -71,6 +71,7 @@ function calcularPedidos(caso) {                              // O(p + m + n log
         .join('\n');
 }
 
+
 // Complejidad total:
 // O(p) + O(m) + O(m) + O(n) + O(n log n) + O(n)
 // = O(p + m + n log n)
